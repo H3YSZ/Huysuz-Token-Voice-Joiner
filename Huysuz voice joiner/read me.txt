@@ -1,0 +1,22 @@
+                
+                       
+╔╗ ╔╗╔╗ ╔╗╔╗  ╔╗╔═══╗╔╗ ╔╗╔════╗
+║║ ║║║║ ║║║╚╗╔╝║║╔═╗║║║ ║║╚══╗ ║
+║╚═╝║║║ ║║╚╗╚╝╔╝║╚══╗║║ ║║  ╔╝╔╝
+║╔═╗║║║ ║║ ╚╗╔╝ ╚══╗║║║ ║║ ╔╝╔╝ 
+║║ ║║║╚═╝║  ║║  ║╚═╝║║╚═╝║╔╝ ╚═╗
+╚╝ ╚╝╚═══╝  ╚╝  ╚═══╝╚═══╝╚════╝
+                     
+                     
+
+ '''  İlk öncelikle herkese selamlar  '''
+
+1 ^ Hiçbirşey yapmadan önce tokens.txt uzantısına tokenlerimizi alt alta olucak şekilde yazıyoruz
+
+2 ^ Ardından setup.bat uzantısını açıyoruz ve kurulumun bitmesini bekliyoruz
+
+3 ^ Kurulum bittikten sonra otomatik olarak program açılacaktır açılmazsa , main.py uzantısından rahatlıkla erişebilirsiniz
+
+4 ^ H3YSZ tarafından güvenli bir şekilde kodlanmıştır İyi günler ve iyi vaktiler dilerim :))
+
+https://github.com/H3YSZ
