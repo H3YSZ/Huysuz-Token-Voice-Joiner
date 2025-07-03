@@ -1,4 +1,4 @@
-Selam Dostlar Ben Huysuz Bu programı sizinde faydalanmanız için payalştım umarım işinize yaramıştır :))
+Selam Dostlar Ben Huysuz Bu programı sizinde faydalanmanız için paylaştım umarım işinize yaramıştır :))
 
 discord.gg/fark
 
